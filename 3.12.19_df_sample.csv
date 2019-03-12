@@ -1,0 +1,11 @@
+,trip_id,starttime,stoptime,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear,DATE,PRCP,SNOW,SNWD,TAVG,TMAX,TMIN
+0,9379901,2016-04-30 23:59:00,2016-05-01 00:11:00,21,733,123,California Ave & Milwaukee Ave,374,Western Ave & Walton St,Subscriber,Male,1982.0,2016-04-30,,,,,,
+1,9379900,2016-04-30 23:58:00,2016-05-01 00:07:00,3583,556,349,Halsted St & Wrightwood Ave,165,Clark St & Grace St,Subscriber,Male,1991.0,2016-04-30,,,,,,
+2,9379899,2016-04-30 23:58:00,2016-05-01 00:02:00,4557,253,59,Wabash Ave & Roosevelt Rd,273,Michigan Ave & 18th St,Subscriber,Male,1984.0,2016-04-30,,,,,,
+3,9379898,2016-04-30 23:54:00,2016-05-01 00:08:00,2443,802,289,Wells St & Concord Ln,199,Wabash Ave & Grand Ave,Subscriber,Male,1978.0,2016-04-30,,,,,,
+4,9379897,2016-04-30 23:52:00,2016-05-01 00:11:00,50,1146,239,Western Ave & Leland Ave,227,Southport Ave & Waveland Ave,Customer,,,2016-04-30,,,,,,
+5,9379896,2016-04-30 23:49:00,2016-05-01 00:11:00,1676,1291,239,Western Ave & Leland Ave,227,Southport Ave & Waveland Ave,Customer,,,2016-04-30,,,,,,
+6,9379895,2016-04-30 23:46:00,2016-04-30 23:54:00,3619,451,56,Desplaines St & Kinzie St,186,Ogden Ave & Race Ave,Subscriber,Male,1988.0,2016-04-30,,,,,,
+7,9379894,2016-04-30 23:45:00,2016-05-01 00:18:00,2200,1954,129,Blue Island Ave & 18th St,36,Franklin St & Jackson Blvd,Subscriber,Male,1992.0,2016-04-30,,,,,,
+8,9379893,2016-04-30 23:38:00,2016-04-30 23:42:00,693,226,300,Broadway & Barry Ave,299,Halsted St & Roscoe St,Subscriber,Male,1984.0,2016-04-30,,,,,,
+9,9379892,2016-04-30 23:37:00,2016-04-30 23:53:00,1627,954,287,Franklin St & Monroe St,56,Desplaines St & Kinzie St,Subscriber,Male,1987.0,2016-04-30,,,,,,
